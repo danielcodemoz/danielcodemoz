@@ -31,6 +31,11 @@ Protótipos e demos estáticas — não são produtos em produção.
 | floodguardmoz | [danielcodemoz.github.io/floodguardmoz](https://danielcodemoz.github.io/floodguardmoz/) |
 | willowcodingclub2025 | [danielcodemoz.github.io/willowcodingclub2025](https://danielcodemoz.github.io/willowcodingclub2025/) |
 | healthzone | [project-54dd8.vercel.app](https://project-54dd8.vercel.app) |
+| tic-tac-toe-lab | [danielcodemoz.github.io/tic-tac-toe-lab](https://danielcodemoz.github.io/tic-tac-toe-lab/) |
+| scientific-calculator | [danielcodemoz.github.io/scientific-calculator](https://danielcodemoz.github.io/scientific-calculator/) |
+| mozstat | [danielcodemoz.github.io/mozstat](https://danielcodemoz.github.io/mozstat/) |
+| pomodoro-lab | [danielcodemoz.github.io/pomodoro-lab](https://danielcodemoz.github.io/pomodoro-lab/) |
+| unit-converter | [danielcodemoz.github.io/unit-converter](https://danielcodemoz.github.io/unit-converter/) |
 
 ## Stack
 
