@@ -1,8 +1,8 @@
 # Daniel Marcos
 
-Consultor informático em **Maputo, Moçambique**. Construo software para escolas, RH, condomínios e associações comunitárias.
+**Consultor informático em Maputo.** Software em produção para escolas e condomínios.
 
-IT consultant in Maputo. I ship practical software for schools, HR, condominiums, and community savings groups.
+IT consultant in Maputo — production software for schools, condos, HR and community operations.
 
 ## Em produção
 
@@ -18,12 +18,25 @@ IT consultant in Maputo. I ship practical software for schools, HR, condominiums
 | Fila Smart | Filas e agendamentos | [filasmart.danielpro.dev](https://filasmart.danielpro.dev) |
 | Xitique | Poupança colectiva / ROSCA | [xitique.danielpro.dev](https://xitique.danielpro.dev) |
 
+## Labs (demos ao vivo)
+
+Protótipos e demos estáticas — não são produtos em produção.
+
+| Lab | Demo |
+| --- | --- |
+| TodoApp | [danielcodemoz.github.io/TodoApp](https://danielcodemoz.github.io/TodoApp/) |
+| PseudoCode-Editor | [danielcodemoz.github.io/PseudoCode-Editor](https://danielcodemoz.github.io/PseudoCode-Editor/) |
+| file-renamer-utility | [danielcodemoz.github.io/file-renamer-utility](https://danielcodemoz.github.io/file-renamer-utility/) |
+| presence-tracker | [danielcodemoz.github.io/presence-tracker](https://danielcodemoz.github.io/presence-tracker/) |
+| floodguardmoz | [danielcodemoz.github.io/floodguardmoz](https://danielcodemoz.github.io/floodguardmoz/) |
+| willowcodingclub2025 | [danielcodemoz.github.io/willowcodingclub2025](https://danielcodemoz.github.io/willowcodingclub2025/) |
+| healthzone | [project-54dd8.vercel.app](https://project-54dd8.vercel.app) |
+
 ## Stack
 
 PHP · Python/Flask · MySQL/MariaDB · Android (Capacitor) · nginx · Linux
 
 ## Contacto
 
-- Email: danielmarcos173@gmail.com
+- Email: [danielmarcos173@gmail.com](mailto:danielmarcos173@gmail.com)
 - Site: [danielpro.dev](https://danielpro.dev)
-- GitHub: [danielcodemoz](https://github.com/danielcodemoz)
