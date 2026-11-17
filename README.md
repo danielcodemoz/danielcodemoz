@@ -47,18 +47,36 @@ I build practical software for education, business and community life: tools tha
 
 [Explore Monolog ↗](https://monolog.danielpro.dev) · [Website source](https://github.com/danielcodemoz/monolog-site)
 
+<a href="https://geoturma.danielpro.dev"><img src="assets/geoturma.svg" alt="GeoTurma — Grouping classes by geographic proximity." width="100%" /></a>
+
+#### [GeoTurma](https://geoturma.danielpro.dev)
+Grouping classes by geographic proximity.
+
+[Explore GeoTurma ↗](https://geoturma.danielpro.dev)
+
+<a href="https://guestflow.danielpro.dev"><img src="assets/guestflow.svg" alt="GuestFlow — Event guests and protocol management." width="100%" /></a>
+
+#### [GuestFlow](https://guestflow.danielpro.dev)
+Event guests and protocol management.
+
+[Explore GuestFlow ↗](https://guestflow.danielpro.dev)
+
+<a href="https://youtubedownloader.danielpro.dev"><img src="assets/ytdownloader.svg" alt="ytDownloader — Desktop media tools for content you are authorised to save." width="100%" /></a>
+
+#### [ytDownloader](https://youtubedownloader.danielpro.dev)
+Desktop media tools for content you are authorised to save.
+
+[Explore ytDownloader ↗](https://youtubedownloader.danielpro.dev)
+
 <details>
 <summary><strong>More products & platforms</strong></summary>
 
 - **[Educare Central](https://soueducare.com)** · School management and learning tools.
 - **[Willow Hub](https://wiscosta.pro)** · Reservations, library and attendance workflows.
 - **[Meu Prédio](https://predial.danielpro.dev)** · Condominium management for web and Android.
-- **[GeoTurma](https://geoturma.danielpro.dev)** · Grouping classes by geographic proximity.
-- **[GuestFlow](https://guestflow.danielpro.dev)** · Event guests and protocol management.
 - **[Kazi RH](https://kazirh.danielpro.dev)** · Human-resources workflows for Mozambique.
 - **[Fila Smart](https://filasmart.danielpro.dev)** · Queues and appointment scheduling.
 - **[Xitique](https://xitique.danielpro.dev)** · Collective savings and rotating savings groups.
-- **[ytDownloader](https://youtubedownloader.danielpro.dev)** · Desktop media tools for content you are authorised to save.
 
 </details>
 
