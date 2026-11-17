@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" role="img" aria-labelledby="title"><title id="title">Daniel Marcos. Practical software. Thoughtful design. Made in Mozambique.</title><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#274353" stroke-width="1"/></pattern></defs>
+<rect width="960" height="400" rx="20" fill="#0d2233"/><rect x="620" width="340" height="400" fill="url(#grid)"/>
+<path d="M0 0H10V400H0Z" fill="#55dfc3"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="46" y="52" fill="#55dfc3" font-size="18" letter-spacing="3">DANIEL MARCOS / SOFTWARE BUILDER</text>
+<text x="44" y="137" fill="#f5f5ee" font-size="62" font-weight="700">Practical software.</text><text x="44" y="208" fill="#f5f5ee" font-size="62" font-weight="700">Thoughtful design.</text>
+<path d="M46 253H550" stroke="#395464"/><text x="46" y="293" fill="#c3d4dc" font-size="23">Made in Mozambique.</text><text x="46" y="351" fill="#55dfc3" font-size="17" letter-spacing="2">EDUCATION / PRODUCTIVITY / COMMUNITY</text></g>
+<g transform="translate(710 80)" fill="none" stroke-linejoin="round"><path d="M0 20L65 0L130 20L65 40Z M0 20V180L65 205L130 180V20 M65 40V205" stroke="#365c6c" stroke-width="2"/><path d="M-15 95L25 55M-15 95L25 135M145 95L105 55M145 95L105 135" stroke="#55dfc3" stroke-width="9"/><path d="M80 55L50 135" stroke="#f5f5ee" stroke-width="9"/><circle cx="65" cy="205" r="7" fill="#55dfc3" stroke="#0d2233" stroke-width="3"/></g></svg>
